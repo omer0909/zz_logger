@@ -1,0 +1,4 @@
+@PACKAGE_INIT@
+
+set(zz_loggger_INCLUDE_DIRS "${CMAKE_CURRENT_LIST_DIR}/../include")
+set(zz_loggger_LIBRARIES "${CMAKE_CURRENT_LIST_DIR}/../lib/libzz_loggger.a")
