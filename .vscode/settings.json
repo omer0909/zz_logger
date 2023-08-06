@@ -59,5 +59,6 @@
         "typeinfo": "cpp",
         "filesystem": "cpp",
         "codecvt": "cpp"
-    }
+    },
+    "ros.distro": "humble"
 }

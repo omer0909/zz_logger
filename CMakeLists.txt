@@ -4,7 +4,7 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_FLAGS  "-Wall -Wextra -Wshadow -W -O2 -flto")
 
-project(zz_loggger)
+project(zz_logger)
 
 # Packaging support
 set(CPACK_PACKAGE_VENDOR "Vendor name")
